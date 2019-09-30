@@ -1,5 +1,5 @@
 
-__author__ = 'Alfredo Saglimbeni'
+__author__ = 'Murilo Venturoso'
 
 import re
 import uuid
